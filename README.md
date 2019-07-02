@@ -19,7 +19,7 @@ Aggiungere repo se non presente in quelli ufficiali della versione:
 
 ## [Blockscad: Openscad for Dummies](https://www.blockscad3d.com/editor/) 
 
-[![blockscad_site](/home/omar/Documenti/GIT/openscad_summerCamp/images/blockscad.png  "Blockscad")](https://www.blockscad3d.com/editor/) 
+[![blockscad_site](./images/blockscad.png  "Blockscad")](https://www.blockscad3d.com/editor/) 
 
 ## [Thingverse: una web-app per Openscad](https://www.thingiverse.com/)
 
