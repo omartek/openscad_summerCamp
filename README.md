@@ -32,3 +32,5 @@ A quest'indirizzo trovi le [istruzioni per utilizzare Customizer](https://custom
 **È richiesto il login**
 
 [Esempio 1: un timbro personalizzabile](https://www.thingiverse.com/apps/customizer/run?thing_id=3234634)
+[Esempio 2: porta strumenti cilindrico](https://www.thingiverse.com/apps/customizer/run?thing_id=3725668)
+
