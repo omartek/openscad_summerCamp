@@ -1,17 +1,14 @@
-/* [Global] */
-
 //Diametro esterno tubo
 dia=25.5;
 //Altezzo totale
 h=100;
-
-/* [Altro] */
-//Spessore pareti
-sp2=0.8; //[0.8,1.6,2.4]
-//Allargamento all'appoggio
-t=6; // [2:minimo, 6:medio, 10:abbondante]
 //Spessore allargamento
 sp1=0.8; //[0.8,1.6,2.4]
+//Spessore pareti
+sp2=0.8; //[0.2:0.2:1]
+//Allargamento all'appoggio
+t=6; // [2:minimo, 6:medio, 10:abbondante]
+
 
 difference(){
     union(){
