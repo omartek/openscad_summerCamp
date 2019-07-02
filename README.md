@@ -1,6 +1,6 @@
 # openscad_summerCamp
 
-##[Sito ufficiale OPENSCAD](https://www.openscad.org/index.html) 
+## [Sito ufficiale OPENSCAD](https://www.openscad.org/index.html) 
 
 [![openscad_website](./images/openscad_website.png  "openscad_website")
 ](https://www.openscad.org/index.html) 
@@ -12,7 +12,7 @@ Aggiungere repo se non presente in quelli ufficiali della versione:
     sudo apt-get update
     sudo apt-get install openscad
 
-##[Cheat sheet dei comandi:](https://www.openscad.org/cheatsheet/index.html) 
+## [Cheat sheet dei comandi:](https://www.openscad.org/cheatsheet/index.html) 
 
 [![cheatsheet](./images/cheatsheet.png  "openscad_website")
 ](https://www.openscad.org/index.html) 
