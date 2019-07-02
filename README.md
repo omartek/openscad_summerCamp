@@ -12,7 +12,9 @@ Aggiungere i repo se OpenSCAD non risulta presente in quelli della tua distro:
     sudo apt-get update
     sudo apt-get install openscad
 
-## [Cheat sheet dei comandi:](https://www.openscad.org/cheatsheet/index.html) 
+## [Cheat sheet dei comandi e manuale:](https://www.openscad.org/cheatsheet/index.html) 
+
+I link dei comandi rimandano a questo [wikibook](https://it.wikibooks.org/wiki/OpenSCAD/Linguaggio_OpenSCAD).
 
 [![cheatsheet](./images/cheatsheet.png  "openscad_website")
 ](https://www.openscad.org/index.html) 
