@@ -1,7 +1,10 @@
+/*[Dimensioni globali]*/
 //Diametro esterno tubo
 dia=25.5;
 //Altezzo totale
 h=100;
+
+/*[Spessori]*/
 //Spessore allargamento
 sp1=0.8; //[0.8,1.6,2.4]
 //Spessore pareti
