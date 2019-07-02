@@ -29,6 +29,6 @@ Ovviamente bisogna avere l'accortezza di realizzare progetti che facciano uso di
 
 A [quest'indirizzo](https://customizer.makerbot.com/docs) trovi le istruzioni e a [questo](https://www.thingiverse.com/app:22/things) numerosi esempi.
 
-** È richiesto il login **
+**È richiesto il login**
 
 [Esempio 1: un timbro personalizzabile](https://www.thingiverse.com/apps/customizer/run?thing_id=3234634)
