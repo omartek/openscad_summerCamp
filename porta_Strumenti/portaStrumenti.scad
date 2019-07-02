@@ -1,0 +1,9 @@
+difference(){
+    union(){
+cylinder(2,d1=34,d2=34);
+cylinder(85,d1=25.5,d2=25.5);
+translate([0,0,85])sphere(25.5/2);
+    }
+cylinder(85,d1=25.5-1.6,d2=25.5-1.6);
+translate([0,0,85])sphere((25.5-1.6)/2);
+}
