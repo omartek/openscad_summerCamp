@@ -32,15 +32,20 @@ Ovviamente bisogna avere l'accortezza di realizzare progetti che facciano uso di
 
 A quest'indirizzo trovi le [istruzioni per utilizzare Customizer](https://customizer.makerbot.com/docs) e a questo [numerosi esempi](https://www.thingiverse.com/app:22/things) numerosi esempi.
 
+[![Customizer](./images/customizer.png  "Customizer")](https://www.thingiverse.com/app:22/things)
+
 **È richiesto il login**
 
 * [Esempio 1: un timbro personalizzabile](https://www.thingiverse.com/apps/customizer/run?thing_id=3234634)
+
 ![Timbro](./images/customizer_timbro.png  "Timbro")
 
 * [Esempio 2: porta strumenti cilindrico](https://www.thingiverse.com/apps/customizer/run?thing_id=3725668)
+
 ![Fiale cilindrica](./images/portaStrumenti-COLLAGE.jpg  "Fiale cilindrica")
 
 * [Esempio 3: Otto Robot](https://www.thingiverse.com/apps/customizer/run?thing_id=1568652)
+
 ![Otto](./images/customizer_otto.png  "Otto")
 
 ## Dove reperire codice d'esempio in rete
