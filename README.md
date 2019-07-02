@@ -27,7 +27,7 @@ Registrandosi a [Thingverse](https://www.thingiverse.com/) e caricando i propri 
 Attraverso la propria applicazione [Customizer](https://www.thingiverse.com/app:22/things), viene costruita una pagina web nella quale, tramite caselle di testo, menù a tendina o slider, è possibile renderizzare modelli parametrici.
 Ovviamente bisogna avere l'accortezza di realizzare progetti che facciano uso di variabili e i *// commenti* rispettino certe sintassi.
 
-A [quest'indirizzo](https://customizer.makerbot.com/docs) trovi le istruzioni e a [questo](https://www.thingiverse.com/app:22/things) numerosi esempi.
+A quest'indirizzo trovi le [istruzioni per utilizzare Customizer](https://customizer.makerbot.com/docs) e a questo [numerosi esempi](https://www.thingiverse.com/app:22/things) numerosi esempi.
 
 **È richiesto il login**
 
