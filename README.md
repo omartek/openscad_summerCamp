@@ -35,3 +35,4 @@ A quest'indirizzo trovi le [istruzioni per utilizzare Customizer](https://custom
 
 [Esempio 2: porta strumenti cilindrico](https://www.thingiverse.com/apps/customizer/run?thing_id=3725668)
 
+[Esempio 3: Otto Robot](https://www.thingiverse.com/apps/customizer/run?thing_id=1568652)
