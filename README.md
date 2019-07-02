@@ -12,8 +12,11 @@ Aggiungere i repo se OpenSCAD non risulta presente in quelli della tua distro:
     sudo apt-get update
     sudo apt-get install openscad
 
-## [Cheat sheet dei comandi e manuale:](https://www.openscad.org/cheatsheet/index.html) 
+## [Documentazione, manuali e tutorial:](https://www.openscad.org/documentation.html) 
 
+La pagina ufficiale della [Documentazione](https://www.openscad.org/documentation.html) è ben fornita.
+
+Per una panoramica rapida è molto comodo il **cheat sheet**.
 I link dei comandi rimandano a questo [wikibook](https://it.wikibooks.org/wiki/OpenSCAD/Linguaggio_OpenSCAD).
 
 [![cheatsheet](./images/cheatsheet.png  "openscad_website")
@@ -67,3 +70,7 @@ Ecco alcuni luoghi ricchi di modelli realizzati in OpenSCAD:
 * [**OpenJSCAD**:OpenSCAD + JavaScript](https://openjscad.org/#) 
 
 * [**SolidPython**: OpenSCAD + Python](https://github.com/SolidCode/SolidPython) 
+
+* [**GraphCAD**: in stile Grasshopper](https://graphscad.blogspot.com/) 
+
+* [**Inkscape to OpenSCAD**: modelli dal disegno vettoriale](https://www.thingiverse.com/thing:25036) 
