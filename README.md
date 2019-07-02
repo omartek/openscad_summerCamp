@@ -18,7 +18,7 @@ Aggiungere i repo se OpenSCAD non risulta presente in quelli della tua distro:
 ](https://www.openscad.org/index.html) 
 
 ## [Editor online](http://openscad.net/)
-![OpenScad.net](/home/omar/Documenti/GIT/openscad_summerCamp/images/openscad_net.png  "OpenScad.net")
+![OpenScad.net](./images/openscad_net.png  "OpenScad.net")
 
 ## [Blockscad: OpenSCAD for Dummies](https://www.blockscad3d.com/editor/) 
 
@@ -35,10 +35,13 @@ A quest'indirizzo trovi le [istruzioni per utilizzare Customizer](https://custom
 **È richiesto il login**
 
 * [Esempio 1: un timbro personalizzabile](https://www.thingiverse.com/apps/customizer/run?thing_id=3234634)
+![Timbro](./images/customizer_timbro.png  "Timbro")
 
 * [Esempio 2: porta strumenti cilindrico](https://www.thingiverse.com/apps/customizer/run?thing_id=3725668)
+![Fiale cilindrica](./images/portaStrumenti-COLLAGE.jpg  "Fiale cilindrica")
 
 * [Esempio 3: Otto Robot](https://www.thingiverse.com/apps/customizer/run?thing_id=1568652)
+![Otto](./images/customizer_otto.png  "Otto")
 
 ## Dove reperire codice d'esempio in rete
 
@@ -50,6 +53,7 @@ Ecco alcuni luoghi ricchi di modelli realizzati in OpenSCAD:
 
 * [Sezione Customizable di Thingverse](https://www.thingiverse.com/customizable) 
 
+* [Prusa i3 - stampante 3D](https://github.com/prusa3d/Original-Prusa-i3) 
 
 ## Linguaggi derivati o collegati a OpenSCAD
 
