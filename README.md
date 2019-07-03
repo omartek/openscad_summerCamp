@@ -29,6 +29,8 @@ I link dei comandi rimandano a questo [wikibook](https://it.wikibooks.org/wiki/O
 
 [![blockscad_site](./images/blockscad.png  "Blockscad")](https://www.blockscad3d.com/editor/) 
 
+***
+
 ## [Thingverse: una web-app per OpenSCAD](https://www.thingiverse.com/)
 
 Registrandosi a [Thingverse](https://www.thingiverse.com/) e caricando i propri modelli **OpenSCAD** è possibile ottenere automaticamente una pagina web nella quale modellare i propri progetti in modo parametrico.
@@ -53,6 +55,10 @@ A quest'indirizzo trovi le [istruzioni per utilizzare Customizer](https://custom
 
 ![Otto](./images/customizer_otto.png  "Otto")
 
+* [Esempio 4: Bulloni](https://www.thingiverse.com/apps/customizer/run?thing_id=193647)
+
+***
+
 ## Dove reperire codice d'esempio in rete
 
 Ecco alcuni luoghi ricchi di modelli realizzati in OpenSCAD:
@@ -64,6 +70,8 @@ Ecco alcuni luoghi ricchi di modelli realizzati in OpenSCAD:
 * [Sezione Customizable di Thingverse](https://www.thingiverse.com/customizable) 
 
 * [Prusa i3 - stampante 3D](https://github.com/prusa3d/Original-Prusa-i3) 
+
+* [Prusa i3 - vanilla](https://github.com/josefprusa/Prusa3-vanilla)
 
 ## Linguaggi derivati o collegati a OpenSCAD
 
