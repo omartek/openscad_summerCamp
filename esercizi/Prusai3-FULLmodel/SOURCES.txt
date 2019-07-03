@@ -1,0 +1,4 @@
+Sources for Prusa i3 MK3 OpenSCAD preview model
+
+E3D-v6 All Metal HotEnd in OpenSCAD (https://www.thingiverse.com/thing:548237)
+Prusa i3 MK3 SolidWorks Assembly (with STEP) (https://www.thingiverse.com/thing:2699771)
