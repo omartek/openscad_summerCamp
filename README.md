@@ -1,5 +1,7 @@
 # openscad_summerCamp
 
+[Link alle slide d'introduzione](https://docs.google.com/presentation/d/1AahNq-qOJ2fLGVGkCj6AsqyVDybipH6feOgBKgXtdCk/edit?usp=sharing) 
+
 ## [Sito ufficiale OpenSCAD](https://www.openscad.org/index.html) 
 
 [![openscad_website](./images/openscad_website.png  "openscad_website")
